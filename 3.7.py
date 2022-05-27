@@ -1,4 +1,4 @@
-'''# 3.7.1
+# 3.7.1
 n = int(input())
 dictoinary = {}
 for j in range(n):
@@ -84,7 +84,7 @@ for i in range(n):
     elif line[0] == 'восток':
         x += int(line[1])
 print(x,y)
-'''
+
 # 3.7.5
 output = open('output.txt', 'w')
 d={}
